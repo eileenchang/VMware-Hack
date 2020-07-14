@@ -35,9 +35,9 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="183dp"
-        android:layout_height="59dp"
-        android:text="Button"
+        android:layout_width="185dp"
+        android:layout_height="67dp"
+        android:text="@string/quests"
         app:layout_constraintBottom_toBottomOf="@+id/nav_view"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
